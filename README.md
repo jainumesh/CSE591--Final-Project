@@ -1,6 +1,6 @@
 # PCA_Project
 Solving the Numberlink Problem
-# All Links are from external sources and contains credits to original authors.
+/*All Links are from external sources and contains credits to original authors.*/
 
 I am trying to solve NumberLink puzzle using Logic programming for the project.
 The puzzle is available as android App called "Flow".
