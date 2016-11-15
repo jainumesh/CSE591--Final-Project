@@ -52,6 +52,8 @@ www.informatik.uibk.ac.at/en/teaching/smb/theses/64.pdf
 
 I am planning to make a logic rules driven solution for the same in IDP, as to the best of my knowledge no IDP Program has been published for the same.
 
+Test Cases can be made using various puzzles given at : http://www.nikoli.co.jp/en/puzzles/numberlink.html
+
 A Picat Program for is given at : https://github.com/hakank/hakank/blob/master/picat/numberlink.pi
 
 A Comparison of the two approaches will be made to understand both the solutions better.
